@@ -1,4 +1,5 @@
 api:
     host: 'http://dummy.restapiexample.com/api/v1/'
-    endpoint: 'employees'
-    
+    all_employees: 'employees'
+    employee: 'employee'
+
