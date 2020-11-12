@@ -10,3 +10,8 @@ we'll make requests using the requests library
 and drive the tests by using pytest. 
 The configurations will be written in yaml
 
+You can find the api documentation here:
+
+http://dummy.restapiexample.com/
+
+
